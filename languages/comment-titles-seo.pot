@@ -1,0 +1,45 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Comment Titles SEO 1.0.0\n"
+"Report-Msgid-Bugs-To: http://stallion-theme.co.uk/comment-titles-wordpress-seo-plugin/ \n"
+"POT-Creation-Date: 2017-07-03 02:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: David Law <davidlseo@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Stallion Responsive http://stallion-theme.co.uk/"
+
+#: comment-titles-seo.php:51 comment-titles-seo.php:59
+#: comment-titles-seo.php:67 comment-titles-seo.php:129
+msgid "Comment Title"
+msgstr ""
+
+#. Name of the plugin
+msgid "Comment Titles SEO"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Add an extra field to the Comment Form for your commenter's to add a "
+"relevant title (a Comment Title) adding additional SEO value to user "
+"comments. Comment Titles are also used by the free <a href=\"https:"
+"//wordpress.org/plugins/blog-comments-seo/\" target=\"_blank\">SEO Comments "
+"Plugin</a> adding significant SEO value to the output."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://stallion-theme.co.uk/comment-titles-wordpress-seo-plugin/"
+msgstr ""
+
+#. Author of the plugin
+msgid "David Law"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://stallion-theme.co.uk/"
+msgstr ""
